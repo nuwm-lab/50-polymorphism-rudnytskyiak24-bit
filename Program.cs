@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace GeometryFigures
 {
@@ -107,4 +107,3 @@ namespace GeometryFigures
         }
     }
 }
-
